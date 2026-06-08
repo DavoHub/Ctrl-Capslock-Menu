@@ -23,3 +23,8 @@ all with keybinds for speed. very useful. 10/10 script. please use it
 
 
 (also the script has a secret easter egg...but will you be able to find it???)
+
+(also THIS SCRIPT HAS A DARK MODE SETTING.
+
+History:
+back in the day some other guy made a script of this but then in a new update removed the loading bar gui which was sad so i preserved it in here forever as an easter egg of the past..idk

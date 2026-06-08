@@ -28,3 +28,6 @@ all with keybinds for speed. very useful. 10/10 script. please use it
 
 History:
 back in the day some other guy made a script of this but then in a new update removed the loading bar gui which was sad so i preserved it in here forever as an easter egg of the past..idk
+
+
+- To see what the script looks like, here is an imgur link: https://imgur.com/a/ctrl-capslock-menu-wzewJqa

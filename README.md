@@ -20,3 +20,6 @@ then options for surrounding in quotes
 then more options for random stuff like SPOngEboBCase and whatnot
 
 all with keybinds for speed. very useful. 10/10 script. please use it
+
+
+(also the script has a secret easter egg...but will you be able to find it???)
